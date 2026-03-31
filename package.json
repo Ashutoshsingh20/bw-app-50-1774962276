@@ -1,7 +1,7 @@
 {
   "name": "bw-app-50-1774962276",
   "version": "1.0.0",
-  "description": "Vapor Lattice monochrome ops dashboard",
+  "description": "Lumen Circuit monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
